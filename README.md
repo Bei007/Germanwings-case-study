@@ -4,4 +4,4 @@ An interactive Tableau dashboard and [PDF report](https://github.com/Bei007/Germ
 Processing pipelines for the data can be viewed [notebook_1](https://github.com/Bei007/Germanwings-case-study/blob/main/data-extraction.ipynb) and [notebook_2](https://github.com/Bei007/Germanwings-case-study/blob/main/countrycount.ipynb)
 
  [Here](https://public.tableau.com/shared/WXHQNQTK4?:display_count=n&:origin=viz_share_link) is the Tableau dashboard. See a preview here:
-![Dashboard_preview](./Dashboard_preview.png)
+![Dashboard preview](./Dashboard%20preview.png)
